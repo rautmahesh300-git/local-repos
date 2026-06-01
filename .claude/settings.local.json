@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.reconciliation.org.au)",
+      "Bash(Start-Sleep -Seconds 30)",
+      "Bash(Get-Content \"C:\\\\Users\\\\MAHESH~1\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--VS-Code-MCP\\\\b34cfe11-7d3b-404b-b391-32125656e816\\\\tasks\\\\bibm3bnyy.output\" -Tail 60)",
+      "Bash(npm test *)",
+      "Bash(git branch *)",
+      "Bash(git push *)"
+    ]
+  }
+}

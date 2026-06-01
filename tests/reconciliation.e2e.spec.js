@@ -5,7 +5,7 @@
  * Website: https://www.reconciliation.org.au/
  * ====================================================================
  *
- * SUITE STRUCTURE (13 describe blocks, ~110 tests)
+ * SUITE_STRUCTURE (13 describe blocks, ~110 tests)
  * ─────────────────────────────────────────────────────────────────────
  *  1.  Smoke              — all key pages return HTTP 200, no JS errors
  *  2.  Main Navigation    — header links, logo, Donate CTA, search
